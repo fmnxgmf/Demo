@@ -1,4 +1,4 @@
-package DesignPattern.prototype;
+package DesignPattern.singleton;
 
 /**
  * @description:饿汉式(线程安全，调用效率高，但是不能延时加载)：

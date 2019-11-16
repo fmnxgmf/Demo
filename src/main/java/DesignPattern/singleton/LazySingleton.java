@@ -1,4 +1,4 @@
-package DesignPattern.prototype;
+package DesignPattern.singleton;
 
 /**
  * @description:懒汉单列
