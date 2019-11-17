@@ -27,7 +27,7 @@ public class UrgencyMessage  extends AbstractMessage {
     /**
      * 扩展自己的新方法
      */
-    public void wantch(){
-
+    public Object wantch(String messageId){
+        return null;
     }
 }
